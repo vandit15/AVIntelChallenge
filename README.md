@@ -31,6 +31,9 @@ Simple voting procedure done among output from Resnet50, Resnet101 and Densenet1
  
 We also tried stacking method but that surprisingly that resulted in drop in accuray to **92%**.  
  
+## Trained models
+Trained models can be found at [this](https://drive.google.com/file/d/17Ggkkzi7dhHCbVj6773xI1AN82ydlD1B/view?usp=sharing) drive link
+
 ### Next Steps
 * Improving hyperparameter tuning.
 * Fiddling with transforms (normalisation etc.)
